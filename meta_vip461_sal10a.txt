@@ -1,0 +1,18 @@
+File name	vip vmpo cohort2 sal10am.0001.kcd
+Result analysis file name	vip461_sal10a_anne4hours.raf
+Subject	vip-vmpo co2-sal10
+Gender	
+Age
+Memo
+Free comment 1	EEG1-cno10	vip477-sal10
+Free comment 2	EEG2	vip460-sal10
+Free comment 3	EEG3	vip491-sal10
+Free comment 4	EEG4	vip480-sal10
+Free comment 5	EEG5	vip492-sal10
+Free comment 6	EEG6	vip461-sal10
+Free comment 7
+Free comment 8
+Free comment 9
+Free comment 10
+
+Time	W	R	NR	

@@ -1,0 +1,22 @@
+File name	vip vmpo cohort2 cno10c.0001.kcd
+Result analysis file name	vip477_cno10c_anne4hours.raf
+Subject	vip-vmpo co2-cno10c
+Gender	
+Age
+Memo
+Free comment 1	EEG1-cno10	vip477-cno10c
+Free comment 2	EEG2	vip460-cno10c
+Free comment 3	EEG3	vip491-cno10c
+Free comment 4	EEG4	vip480-cno10c
+Free comment 5	EEG5	vip492-cno10c
+Free comment 6	EEG6	vip461-scno10c
+Free comment 7
+Free comment 8
+Free comment 9
+Free comment 10
+
+Time	W	R	NR	
+12/24/2018 09:57:00	47.1	5.1	47.8	
+12/24/2018 10:57:00	4.4	12.6	82.9	
+12/24/2018 11:57:00	18.3	12.1	69.6	
+12/24/2018 12:57:00	33.3	8.9	57.8	
